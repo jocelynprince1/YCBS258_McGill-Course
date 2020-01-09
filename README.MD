@@ -1,6 +1,7 @@
-# Notebooks developed during the McGill Course on Practical Machine Learning (Deep Learning with Tensorflow 2.0 and Keras)
+# Notebooks developed during the McGill Course on Practical Machine Learning
+## Deep Learning with Tensorflow 2.0 and Keras)
 
-Topics covered:
+### Topics covered:
 
 * Deep neural networks
 * CNN

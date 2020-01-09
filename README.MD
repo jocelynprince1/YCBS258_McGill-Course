@@ -1,1 +1,9 @@
-test
+# Notebooks developed during the McGill Course on Practical Machine Learning (Deep Learning with Tensorflow 2.0 and Keras)
+
+Topics covered:
+
+* Deep neural networks
+* CNN
+* Time Series
+* Autoencoders
+* NLP

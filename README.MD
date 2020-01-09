@@ -7,3 +7,4 @@ Topics covered:
 * Time Series
 * Autoencoders
 * NLP
+* Deployment of micro-services to the Google Cloud Platform
